@@ -1,6 +1,4 @@
 # BlenheimChalcotAssignment
-Interview Assignment given by BlenheimChalcot
-
 
 The project contains 1 feature named- Liberis.feature file.
 The project has 2 scenario's in Liberis.feature file
